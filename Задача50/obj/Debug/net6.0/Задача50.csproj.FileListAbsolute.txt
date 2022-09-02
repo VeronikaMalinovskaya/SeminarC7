@@ -1,0 +1,15 @@
+E:\C#\ДЗ7\Задача50\bin\Debug\net6.0\Задача50.exe
+E:\C#\ДЗ7\Задача50\bin\Debug\net6.0\Задача50.deps.json
+E:\C#\ДЗ7\Задача50\bin\Debug\net6.0\Задача50.runtimeconfig.json
+E:\C#\ДЗ7\Задача50\bin\Debug\net6.0\Задача50.dll
+E:\C#\ДЗ7\Задача50\bin\Debug\net6.0\Задача50.pdb
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.csproj.AssemblyReference.cache
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfoInputs.cache
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfo.cs
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.csproj.CoreCompileInputs.cache
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.dll
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\refint\Задача50.dll
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.pdb
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\Задача50.genruntimeconfig.cache
+E:\C#\ДЗ7\Задача50\obj\Debug\net6.0\ref\Задача50.dll
